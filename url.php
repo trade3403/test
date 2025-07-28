@@ -4,5 +4,4 @@
      1="https://www.baidu.com/,
      2="https://www.baidu.com/
   );
-  echo json_encode($array);
 ?>
